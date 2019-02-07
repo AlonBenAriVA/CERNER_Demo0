@@ -1,0 +1,14 @@
+{
+  "name": "fhir_js",
+  "version": "1.0.0",
+  "description": "a demo of using the smart fhir CERNER api ",
+  "main": "fhir-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alon Ben-Ari, MD",
+  "license": "ISC",
+  "dependencies": {
+    "plotly": "^1.0.6"
+  }
+}

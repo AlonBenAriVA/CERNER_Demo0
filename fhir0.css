@@ -1,0 +1,12 @@
+#plot {
+  position: relative;
+  left:20px;
+  border: 5px solid black
+
+}
+#2Dhist {
+  position:relative;
+  left: 130px;
+  margin:20px;
+  border: 5px double black
+}
